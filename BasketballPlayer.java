@@ -41,7 +41,7 @@ public class BasketballPlayer {
 	 * @param name The name of the player.
 	 */
 	public BasketballPlayer(String name) {
-		this.name = name;
+		this.name = name;Tuesday
 	}
 
 	/**
